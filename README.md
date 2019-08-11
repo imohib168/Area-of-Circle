@@ -1,6 +1,6 @@
 # Portal Work
 ---
-![piaic logo](https://user-images.githubusercontent.com/50514728/62831544-95de2700-bc3a-11e9-8177-6dcecbbb3b7e.png)Presedential Initiative for Artificial Intelligence & Computing     
+![PIAIC](https://user-images.githubusercontent.com/50514728/62831585-7267ac00-bc3b-11e9-9025-a54210c7cfea.png)Presedential Initiative for Artificial Intelligence & Computing     
 ---
 |  Chapters  |                         Topics                                       |  
 |----------- |----------------------------------------------------------------------|
