@@ -1,6 +1,6 @@
 # Portal Work
 ---
-     *P*resedential *I*nitiative for *A*rtificial *I*ntelligence & *C*omputing
+    ### Presedential Initiative for Artificial Intelligence & Computing
 ---                                 
 |  Chapters  |                         Topics                                       |  
 |----------- |----------------------------------------------------------------------|
