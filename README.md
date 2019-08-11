@@ -1,6 +1,6 @@
 # Portal Work
 ---
-                                    *PIAIC*
+     *P*resedential *I*nitiative for *A*rtificial *I*ntelligence & *C*omputing
 ---                                 
 |  Chapters  |                         Topics                                       |  
 |----------- |----------------------------------------------------------------------|
