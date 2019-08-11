@@ -1,6 +1,6 @@
 # Portal Work
 ---
-    ### Presedential Initiative for Artificial Intelligence & Computing                               
+### Presedential Initiative for Artificial Intelligence & Computing                               
 |  Chapters  |                         Topics                                       |  
 |----------- |----------------------------------------------------------------------|
 | 1-20 Chap  | Print, Variable, Concatination, Operators, Lists, Tuple              |
